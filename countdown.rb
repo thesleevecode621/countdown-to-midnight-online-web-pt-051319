@@ -10,5 +10,5 @@ while x > 0
 
   
 end
-puts "HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
 end
