@@ -5,7 +5,7 @@ def countdown
 until x == 0
   puts "#{x}SECONDS!"
   x -= 1
-  puts "HAPPY NEW YEAR!"
+
   
 end
 end
