@@ -1,8 +1,8 @@
 #write your code here
 
-def countdown
+def countdown(x)
   x = 10
-until x == 0
+while x > 0
   puts "#{x}SECONDS!"
   x -= 1
 
