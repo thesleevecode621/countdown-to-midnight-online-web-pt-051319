@@ -6,6 +6,6 @@ until x == 0
   puts "#{x}SECONDS!"
   x -= 1
   puts "HAPPY NEW YEAR!"
-  binding.pry
+  
 end
 end
